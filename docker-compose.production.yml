@@ -3,13 +3,13 @@ version: '3'
 services:
   front:
     container_name: front
-    image: ghcr.io/romaindreidemy/mt5-easydocker/front:latest
+    image: ghcr.io/thomasevano/easydocker/front:latest
     ports:
       - "${FRONT_PORT}:80"
 
   api:
     container_name: api
-    image: ghcr.io/romaindreidemy/mt5-easydocker/api:latest
+    image: ghcr.io/thomasevano/easydocker/api:latest
     volumes:
       - ./.env:/app/.env
     ports:
