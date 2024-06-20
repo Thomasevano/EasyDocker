@@ -1,9 +1,9 @@
 package controllers_test
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/controllers"
-	middleware "github.com/RomainDreidemy/MT5-docker-extension/src/middlewares"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/test_helpers"
+	"github.com/Thomasevano/EasyDocker/src/controllers"
+	middleware "github.com/Thomasevano/EasyDocker/src/middlewares"
+	"github.com/Thomasevano/EasyDocker/src/test_helpers"
 	"github.com/gofiber/fiber/v2"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"

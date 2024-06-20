@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/policies"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/repositories"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/services/factories"
+	"github.com/Thomasevano/EasyDocker/src/models"
+	"github.com/Thomasevano/EasyDocker/src/policies"
+	"github.com/Thomasevano/EasyDocker/src/repositories"
+	"github.com/Thomasevano/EasyDocker/src/services/factories"
 	"github.com/gofiber/fiber/v2"
 )
 

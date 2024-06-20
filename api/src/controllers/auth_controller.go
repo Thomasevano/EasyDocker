@@ -2,9 +2,9 @@ package controllers
 
 import (
 	"fmt"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/helpers"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/initializers"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
+	"github.com/Thomasevano/EasyDocker/src/helpers"
+	"github.com/Thomasevano/EasyDocker/src/initializers"
+	"github.com/Thomasevano/EasyDocker/src/models"
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt"
 	"golang.org/x/crypto/bcrypt"

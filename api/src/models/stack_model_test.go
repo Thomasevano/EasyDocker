@@ -1,8 +1,8 @@
 package models_test
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/test_helpers"
+	"github.com/Thomasevano/EasyDocker/src/models"
+	"github.com/Thomasevano/EasyDocker/src/test_helpers"
 	"testing"
 )
 

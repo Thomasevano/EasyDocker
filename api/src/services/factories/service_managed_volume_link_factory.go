@@ -1,6 +1,6 @@
 package factories
 
-import "github.com/RomainDreidemy/MT5-docker-extension/src/models"
+import "github.com/Thomasevano/EasyDocker/src/models"
 
 func BuildServiceManagedVolumeLinkResponse(link models.ServiceManagedVolumeLink) models.ServiceManagedVolumeLinkResponse {
 	return models.ServiceManagedVolumeLinkResponse{

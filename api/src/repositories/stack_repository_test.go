@@ -1,9 +1,9 @@
 package repositories_test
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/repositories"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/test_helpers"
+	"github.com/Thomasevano/EasyDocker/src/models"
+	"github.com/Thomasevano/EasyDocker/src/repositories"
+	"github.com/Thomasevano/EasyDocker/src/test_helpers"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"

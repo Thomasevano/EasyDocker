@@ -1,6 +1,6 @@
 package builders
 
-import "github.com/RomainDreidemy/MT5-docker-extension/src/models"
+import "github.com/Thomasevano/EasyDocker/src/models"
 
 func BuildDockerComposeNetworks(networks []models.Network) map[string]models.DockerComposeNetwork {
 	dockerComposeNetworks := make(map[string]models.DockerComposeNetwork)

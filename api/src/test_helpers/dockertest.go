@@ -2,8 +2,8 @@ package test_helpers
 
 import (
 	"fmt"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/initializers"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
+	"github.com/Thomasevano/EasyDocker/src/initializers"
+	"github.com/Thomasevano/EasyDocker/src/models"
 	"github.com/golang-migrate/migrate/v4"
 	migratePostgres "github.com/golang-migrate/migrate/v4/database/postgres"
 	_ "github.com/golang-migrate/migrate/v4/source/file"

@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/initializers"
+	"github.com/Thomasevano/EasyDocker/src/initializers"
 	"gorm.io/gorm"
 )
 

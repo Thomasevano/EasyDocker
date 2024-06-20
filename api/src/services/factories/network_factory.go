@@ -1,6 +1,6 @@
 package factories
 
-import "github.com/RomainDreidemy/MT5-docker-extension/src/models"
+import "github.com/Thomasevano/EasyDocker/src/models"
 
 func BuildNetworkResponse(network models.Network) models.NetworkResponse {
 	return models.NetworkResponse{

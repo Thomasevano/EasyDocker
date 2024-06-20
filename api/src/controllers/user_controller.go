@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
+	"github.com/Thomasevano/EasyDocker/src/models"
 	"github.com/gofiber/fiber/v2"
 )
 

@@ -2,7 +2,7 @@ package create_by_file
 
 import (
 	"fmt"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
+	"github.com/Thomasevano/EasyDocker/src/models"
 	"gopkg.in/yaml.v3"
 	"log"
 )

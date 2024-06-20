@@ -1,14 +1,14 @@
 package controllers
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/helpers"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/initializers"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/policies"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/repositories"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/services/create_by_file"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/services/duplication"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/services/factories"
+	"github.com/Thomasevano/EasyDocker/src/helpers"
+	"github.com/Thomasevano/EasyDocker/src/initializers"
+	"github.com/Thomasevano/EasyDocker/src/models"
+	"github.com/Thomasevano/EasyDocker/src/policies"
+	"github.com/Thomasevano/EasyDocker/src/repositories"
+	"github.com/Thomasevano/EasyDocker/src/services/create_by_file"
+	"github.com/Thomasevano/EasyDocker/src/services/duplication"
+	"github.com/Thomasevano/EasyDocker/src/services/factories"
 	"github.com/gofiber/fiber/v2"
 )
 

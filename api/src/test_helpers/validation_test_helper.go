@@ -1,7 +1,7 @@
 package test_helpers
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/helpers"
+	"github.com/Thomasevano/EasyDocker/src/helpers"
 	"testing"
 )
 

@@ -1,7 +1,7 @@
 package test_helpers
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/controllers"
+	"github.com/Thomasevano/EasyDocker/src/controllers"
 	"github.com/gofiber/fiber/v2"
 	"net/http"
 	"strings"

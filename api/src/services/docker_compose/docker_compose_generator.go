@@ -1,8 +1,8 @@
 package docker_compose
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/services/docker_compose/builders"
+	"github.com/Thomasevano/EasyDocker/src/models"
+	"github.com/Thomasevano/EasyDocker/src/services/docker_compose/builders"
 	"gopkg.in/yaml.v3"
 )
 

@@ -1,8 +1,8 @@
 package policies
 
 import (
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/repositories"
+	"github.com/Thomasevano/EasyDocker/src/models"
+	"github.com/Thomasevano/EasyDocker/src/repositories"
 )
 
 func CanAccessServiceEnvVariable(user models.UserResponse, serviceEnvVariableId string) bool {

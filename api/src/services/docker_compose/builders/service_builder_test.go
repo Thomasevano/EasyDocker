@@ -2,7 +2,7 @@ package builders
 
 import (
 	"fmt"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/models"
+	"github.com/Thomasevano/EasyDocker/src/models"
 	"reflect"
 	"testing"
 )

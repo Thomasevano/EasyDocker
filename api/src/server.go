@@ -1,10 +1,10 @@
 package main
 
 import (
-	_ "github.com/RomainDreidemy/MT5-docker-extension/docs"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/controllers"
-	"github.com/RomainDreidemy/MT5-docker-extension/src/initializers"
-	middleware "github.com/RomainDreidemy/MT5-docker-extension/src/middlewares"
+	_ "github.com/Thomasevano/EasyDocker/docs"
+	"github.com/Thomasevano/EasyDocker/src/controllers"
+	"github.com/Thomasevano/EasyDocker/src/initializers"
+	middleware "github.com/Thomasevano/EasyDocker/src/middlewares"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/gofiber/fiber/v2/middleware/logger"

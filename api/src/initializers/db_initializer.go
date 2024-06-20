@@ -2,7 +2,7 @@ package initializers
 
 import (
 	"fmt"
-	. "github.com/RomainDreidemy/MT5-docker-extension/src/models"
+	. "github.com/Thomasevano/EasyDocker/src/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
