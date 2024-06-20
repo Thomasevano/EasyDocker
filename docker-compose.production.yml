@@ -12,6 +12,7 @@ services:
     image: ghcr.io/thomasevano/easydocker/api:latest
     volumes:
       - ./.env:/app/.env
+      - ./.env:/.env
     ports:
       - "${API_PORT}:3000"
     depends_on:
